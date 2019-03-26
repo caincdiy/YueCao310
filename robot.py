@@ -5,7 +5,7 @@ Created on Wed Mar 3rd 14:17:06 2019
 chatbot corpus comes from:
 https://github.com/gunthercox/chatterbot-corpus
 
-@author: yue cao 59468165
+@author: yue cao 59468165  whq 672437089
 """
 import generateResponse as gr
 import preprocess as pp
