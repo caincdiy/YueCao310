@@ -61,11 +61,14 @@ This chatbot use sklearn library to convert the input to a vector and compare th
 
 6.Online chatting via Sockets
 Now user can use another computer to chat with the chatbot via sockets
-* Server
+
+Server
+
 ![alt text](https://github.com/caincdiy/YueCao310/blob/GUI/readme_image/server2.png)
 
 
-* Client
+Client
+
 ![alt text](https://github.com/caincdiy/YueCao310/blob/GUI/readme_image/client2.png)
 
 ### How to use this program:
