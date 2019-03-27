@@ -1,7 +1,6 @@
 # 310 Assignment3 ChatBot
 
-###Individual part:
-Yue Cao
+### Author: Yue Cao
 
 ### Introduction: 
 
