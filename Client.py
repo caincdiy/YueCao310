@@ -10,7 +10,7 @@ def sendmessage():
     mes=getline()
     content = 'me ' + time.strftime('%Y-%M-%D %H:%M:%S', time.localtime()) + '\n'
     text_list.insert(END, content, 'sendcolor')
-    text_list.insert(END, mes)
+    text_list.insert(END, ' '+mes)
     s.sendall(mes.encode("utf-8"))
     rep=s.recv(2048).decode("utf-8")
     if rep=='bye':
@@ -21,6 +21,7 @@ def sendmessage():
     text_sent.delete('0.0', END)
 
 def getmessage(replay):
+
     content = 'chatbot ' + time.strftime('%Y-%M-%D %H:%M:%S', time.localtime()) + '\n'
     text_list.insert(END, content, 'rescolor')
     text_list.insert(END, replay)
