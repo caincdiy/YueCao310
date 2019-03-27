@@ -28,5 +28,7 @@ The training corpus used in our project comes from this [Repo](https://github.co
 * Run from command line `python server.py` first 
 * Run Client and chat with chatbot.
 
+![alt text](https://github.com/caincdiy/YueCao310/blob/GUI/readme_image/GUI.png)
+
 
 
